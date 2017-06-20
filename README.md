@@ -5,7 +5,7 @@ Online resources that will help you prepare for taking the Puppet Professional C
 
 ## Exam Objectives
 
-### Language
+### 1. Language
 
 #### Identify Style Guide recommendations
 * [The Puppet Language Style Guide](https://docs.puppet.com/puppet/latest/style_guide.html)
@@ -39,7 +39,7 @@ Online resources that will help you prepare for taking the Puppet Professional C
 * [learning Puppet - Defined Types](https://docs.puppetlabs.com/learning/definedtypes.html)
 * [Language: Defined Resource Types](https://docs.puppetlabs.com/puppet/latest/reference/lang_defined_types.html)
 
-### Modules
+### 2. Modules
 
 #### Describe how to use modules from the Forge
 * [Installing Modules](https://docs.puppetlabs.com/puppet/latest/reference/modules_installing.html)
@@ -52,29 +52,29 @@ Online resources that will help you prepare for taking the Puppet Professional C
 * [Beginner's Guide to Modules](https://docs.puppetlabs.com/guides/module_guides/bgtm.html)
 * [Best Practices for Building Puppet Modules](https://puppetlabs.com/blog/best-practices-building-puppet-modules)
 
-### Using Puppet
+### 3. Using Puppet
 
 #### Describe environments in Puppet
 #### Describe the lifecycle of a Puppet run
 #### Describe Puppet ecosystem component usage
 #### Describe how to configure a Puppet master
 
-### Puppet Internals
+### 4. Puppet Internals
 
 #### Describe the purpose of types and providers
 #### Describe Puppet's use of SSL certificates
 
-### Classification
+### 5. Classification
 
 #### Describe classification
 
-### Console
+### 6. Console
 
 #### Describe Node Manager
 #### Describe RBAC
 #### Describe reporting capabilities in PE Console
 
-### Ecosystem
+### 7. Ecosystem
 
 #### Describe the purpose of PuppetDB
 #### Demonstrate knowledge of Hiera

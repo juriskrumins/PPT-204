@@ -16,6 +16,7 @@ Online resources that will help you prepare for taking the Puppet Professional C
 * [Language: Basics](https://docs.puppet.com/puppet/latest/reference/lang_summary.html)
 * [Language: Reserved Words and Acceptable Names](https://docs.puppet.com/puppet/latest/reference/lang_reserved.html)
 * [Language: Resources](https://docs.puppet.com/puppet/latest/reference/lang_resources.html)
+* [Language: Advanced Resources](https://docs.puppet.com/puppet/latest/lang_resources_advanced.html)
 * [Language: Relationships and Ordering](https://docs.puppet.com/puppet/latest/reference/lang_relationships.html)
 * [Langauge: Resource Defaults](https://docs.puppet.com/puppet/latest/reference/lang_defaults.html)
 * [Language: Variables](https://docs.puppet.com/puppet/latest/reference/lang_variables.html)

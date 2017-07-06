@@ -61,9 +61,19 @@ Online resources that will help you prepare for taking the Puppet Professional C
 * [Environments isolations](https://docs.puppet.com/puppet/latest/environment_isolation.html)
 * [Git Workflow and Puppet Environments](https://puppetlabs.com/blog/git-workflow-and-puppet-environments?_ga=1.219608607.74181882.1427164782)
 * [Environments and Puppet's HTTPS Interface](https://docs.puppetlabs.com/puppet/latest/reference/environments_https.html)
+
 #### Describe the lifecycle of a Puppet run
+* [Learning Puppet — Basic Agent/Master Puppet](https://docs.puppetlabs.com/learning/agent_master_basic.html)
+
 #### Describe Puppet ecosystem component usage
+* [A New Era of Application Services at Puppet Labs](https://puppetlabs.com/blog/new-era-application-services-puppet-labs)
+* [Subsystems: Agent/Master HTTPS Communications](https://docs.puppetlabs.com/puppet/4.5/reference/subsystem_agent_master_comm.html)
+* [Subsystems: Catalog Compilation](https://docs.puppetlabs.com/puppet/4.5/reference/subsystem_catalog_compilation.html)
+* [PuppetDB 4.1 Overview](http://docs.puppetlabs.com/puppetdb/4.1/)
+
 #### Describe how to configure a Puppet master
+* [Configuration: How Puppet is Configured](https://docs.puppetlabs.com/puppet/latest/reference/config_about_settings.html)
+* [Puppet Server: Configuration](https://docs.puppetlabs.com/puppetserver/1.0/configuration.html)
 
 ### 4. Puppet Internals
 

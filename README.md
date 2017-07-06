@@ -64,6 +64,8 @@ Online resources that will help you prepare for taking the Puppet Professional C
 
 #### Describe the lifecycle of a Puppet run
 * [Learning Puppet — Basic Agent/Master Puppet](https://docs.puppetlabs.com/learning/agent_master_basic.html)
+* [Subsystems: Agent/Master HTTPS Communications](https://docs.puppetlabs.com/puppet/latest/reference/subsystem_agent_master_comm.html)
+* [Subsystems: Catalog Compilation](https://docs.puppetlabs.com/puppet/latest/reference/subsystem_catalog_compilation.html)
 
 #### Describe Puppet ecosystem component usage
 * [A New Era of Application Services at Puppet Labs](https://puppetlabs.com/blog/new-era-application-services-puppet-labs)

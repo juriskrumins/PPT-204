@@ -56,6 +56,9 @@ Online resources that will help you prepare for taking the Puppet Professional C
 ### 3. Using Puppet
 
 #### Describe environments in Puppet
+* [About environments](https://docs.puppet.com/puppet/latest/environments_about.html)
+* [Creating environments](https://docs.puppet.com/puppet/latest/environments_creating.html)
+* [Environments isolations](https://docs.puppet.com/puppet/latest/environment_isolation.html)
 #### Describe the lifecycle of a Puppet run
 #### Describe Puppet ecosystem component usage
 #### Describe how to configure a Puppet master

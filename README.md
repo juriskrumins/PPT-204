@@ -59,6 +59,8 @@ Online resources that will help you prepare for taking the Puppet Professional C
 * [About environments](https://docs.puppet.com/puppet/latest/environments_about.html)
 * [Creating environments](https://docs.puppet.com/puppet/latest/environments_creating.html)
 * [Environments isolations](https://docs.puppet.com/puppet/latest/environment_isolation.html)
+* [Git Workflow and Puppet Environments](https://puppetlabs.com/blog/git-workflow-and-puppet-environments?_ga=1.219608607.74181882.1427164782)
+* [Environments and Puppet's HTTPS Interface](https://docs.puppetlabs.com/puppet/latest/reference/environments_https.html)
 #### Describe the lifecycle of a Puppet run
 #### Describe Puppet ecosystem component usage
 #### Describe how to configure a Puppet master

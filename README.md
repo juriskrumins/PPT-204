@@ -79,8 +79,16 @@ Online resources that will help you prepare for taking the Puppet Professional C
 
 ### 4. Puppet Internals
 
+
 #### Describe the purpose of types and providers
-#### Describe Puppet's use of SSL certificates
+* [Custom Types](https://docs.puppetlabs.com/guides/custom_types.html)
+* [Provider Development](https://docs.puppetlabs.com/guides/provider_development.html)
+
+#### Describe Puppet’s use of SSL certificates
+* [Certificates and Security](http://projects.puppetlabs.com/projects/1/wiki/certificates_and_security)
+* [Puppet Server: External CA Configuration](https://docs.puppetlabs.com/puppetserver/latest/external_ca_configuration.html)
+* [SSL Configuration: External CA Support](https://docs.puppetlabs.com/puppet/latest/reference/config_ssl_external_ca.html)
+* [SSL Configuration: Autosigning Certificate Requests](https://docs.puppetlabs.com/puppet/latest/reference/ssl_autosign.html)
 
 ### 5. Classification
 

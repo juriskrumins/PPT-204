@@ -75,7 +75,7 @@ Online resources that will help you prepare for taking the Puppet Professional C
 
 #### Describe how to configure a Puppet master
 * [Configuration: How Puppet is Configured](https://docs.puppetlabs.com/puppet/latest/reference/config_about_settings.html)
-* [Puppet Server: Configuration](https://docs.puppet.com/puppetserver/lastest/configuration.html)
+* [Puppet Server: Configuration](https://docs.puppet.com/puppetserver/latest/configuration.html)
 
 ### 4. Puppet Internals
 

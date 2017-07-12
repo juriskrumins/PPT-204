@@ -93,6 +93,11 @@ Online resources that will help you prepare for taking the Puppet Professional C
 ### 5. Classification
 
 #### Describe classification
+* [Getting Started with Classification](https://docs.puppetlabs.com/pe/latest/console_classes_groups_getting_started.html)
+* [Puppet: Assigning Configurations to Nodes](https://docs.puppetlabs.com/pe/latest/puppet_assign_configurations.html)
+* [Grouping and Classifying Nodes](https://docs.puppetlabs.com/pe/latest/console_classes_groups.html)
+* [Language: Node definitions](https://docs.puppet.com/puppet/latest/lang_node_definitions.html)
+* [Writing external node classifiers](https://docs.puppet.com/puppet/latest/nodes_external.html)
 
 ### 6. Console
 

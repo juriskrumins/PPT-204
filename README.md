@@ -102,8 +102,19 @@ Online resources that will help you prepare for taking the Puppet Professional C
 ### 6. Console
 
 #### Describe Node Manager
+* [Puppet: Assigning Configurations to Nodes](https://docs.puppetlabs.com/pe/latest/puppet_assign_configurations.html)
+* [Grouping and Classifying Nodes](https://docs.puppetlabs.com/pe/latest/console_classes_groups.html)
+* [Making Changes in the Node Classifier](https://docs.puppetlabs.com/pe/latest/console_classes_groups_making_changes.html)
+
 #### Describe RBAC
+* [Role-based Access Control](https://docs.puppetlabs.com/pe/latest/rbac_intro.html)
+* [Connecting PE to an External Directory Service](https://docs.puppetlabs.com/pe/latest/rbac_ldap.html)
+* [RBAC Permissions](https://docs.puppetlabs.com/pe/latest/rbac_permissions.html)
+* [Creating and Managing Users and User Roles](https://docs.puppetlabs.com/pe/latest/rbac_user_roles.html)
+
 #### Describe reporting capabilities in PE Console
+* [Viewing Reports and Inventory Data](https://docs.puppetlabs.com/pe/latest/console_reports.html)
+* [Monitor current infrastructure state](https://docs.puppet.com/pe/latest/CM_overview.html)
 
 ### 7. Ecosystem
 
